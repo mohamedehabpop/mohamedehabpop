@@ -10,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on data engineering& BI projects.
 
-- 🔭 I’m experienced in SQL| Python| ETL
+- ⚡ I’m experienced in SQL| Python| ETL
 
-- 🤝 I like to explore new technologies maybe making new tools why not!
+- 🧐 I like to explore new technologies maybe making new tools why not!
 
 - 📫 How to reach me **muhammadehabrashad@gmail.com**
 
