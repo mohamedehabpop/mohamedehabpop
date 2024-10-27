@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋, this is pop</h1>
-<h3 align="center">A passionate data engineer who'd love to communicate& work with other data geeks!</h3>
-
+<!-- <h3 align="center">A passionate data engineer who'd love to communicate& work with other data geeks!</h3>
+ -->
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
 ### 🦉 &nbsp;About Me
-- 👨‍💻 Data geek who turns coffee into code.
+- 👨‍💻 Data wizard who turns coffee into code.
 
-- 👯 I’m looking to collaborate on data engineering& BI projects.
+- 👯 I’m looking to collaborate on data engineering and cloud projects.
 
 - ⚡ I’m experienced in SQL| Python| ETL
 
